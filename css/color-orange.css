@@ -1,0 +1,71 @@
+
+::-webkit-scrollbar{
+    width: 4px;
+    color:#000000;
+}
+::-webkit-scrollbar-thumb {
+    background: #000000; 
+    border-radius: 4px;
+    width: 4px;
+  }
+  #breaker{
+      background-color: #000000;
+  }
+  .color{
+      color: #000000;
+  }
+  #about-content a{
+      color:#000000 ;
+  }
+  .cv a button{
+      background: #000000;
+  }
+  .service-img img{
+    background: #000000;
+    box-shadow:0px 0px 0px 0px #000000 ;
+  }
+  .service:hover .service-img img{
+    box-shadow:0px 0px 0px 400px #000000 ;
+}
+.html-progress{
+    background: #000000;
+}
+.js-progress{
+    background: #000000;
+}
+.adobe-progress{
+    background: #000000;
+}
+.php-progress{
+    background: #000000;
+}
+.jquery-progress{
+    background: #000000;
+}
+.seo-progress{
+    background: #000000;
+}
+.portfolio-text h2{
+    color: #000000;
+}
+.portfolio-text button{
+    color: #000000;
+    border: 1.5px solid #000000;
+}
+.portfolio-text button::before{
+    background: #000000;
+}
+.portfolio-image img::before{
+    background: #000000;
+}
+.blog-date{
+    background: #000000;
+}
+form button{
+    background: #000000;
+}
+@media all and (max-width: 550px) and (min-width: 5px){
+    .service:hover .service-img img{
+        box-shadow:0px 0px 0px 0px #c70039 ;
+    }
+}
